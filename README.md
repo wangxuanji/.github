@@ -122,7 +122,3 @@ Correspondence email: yyf17@tsinghua.org.cn
 
 ## Where to find us
 <p><a href="https://github.com/yyf17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-
-<a href="yyf17@tsinghua.org.cn"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-
-
