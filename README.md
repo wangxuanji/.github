@@ -1,7 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=10&color=0C2A37&background=D7D7DB0D&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=1000&height=100&lines=We+are+the+Intelligent+Control+and+Interaction+Group+(ICIG).+;Our+group+is+part+of+the+Multimodal+Information+Perception+and+Security+Laboratory.;We+belong+to+the+School+of+Computer+Science+and+Technology+at+Xinjiang+University.)](https://git.io/typing-svg)
+
+<!--
 # Group introduction
 We are the Intelligent Control and Interaction Group of the Multimodal Information Perception and Security Laboratory of the School of Computer Science and Technology of Xinjiang University, abbreviated as ICIG.
+-->
 
 # Contact with us
 
@@ -105,7 +109,7 @@ Correspondence email: yyf17@tsinghua.org.cn
 ---
 
 <!--START_SECTION:waka-->
-## 📊 &nbsp;Stats
+## 📊 Stats
 
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=yyf17&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
