@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=10&color=0C2A37&background=D7D7DB0D&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=1000&height=100&lines=We+are+the+Intelligent+Control+and+Interaction+Group+(ICIG).+;Our+group+is+part+of+the+Multimodal+Information+Perception+and+Security+Laboratory.;We+belong+to+the+School+of+Computer+Science+and+Technology+at+Xinjiang+University.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=500&color=040F14&multiline=true&width=1000&height=100&lines=We+are+the+Intelligent+Control+and+Interaction+Group+(ICIG).;Our+group+is+part+of+the+Multimodal+Information+Perception+and+Security+Laboratory.+;We+belong+to+the+School+of+Computer+Science+and+Technology+at+Xinjiang+University.)](https://git.io/typing-svg)
+
 
 <!--
 # Group introduction
