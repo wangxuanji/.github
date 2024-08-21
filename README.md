@@ -1,3 +1,5 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 # Group introduction
 We are the Intelligent Control and Interaction Group of the Multimodal Information Perception and Security Laboratory of the School of Computer Science and Technology of Xinjiang University, abbreviated as ICIG.
 
